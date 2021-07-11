@@ -1,11 +1,11 @@
-# SnakeGame
-## Python Turtle Modülü ile Yılan Oyunu. <br/>
-Turtle modülü çizim yapmamızı sağlar. Grafik,şekil vb. çizimler yapabiliriz. <br/>
-Random modülü rastgele sayılar üretebiliriz. <br/>
-Time modülü programın çalışma hızı için eklenir. Zaman değerlerini düzenlemekle ilgili birçok işlevi barındırır.
+# Snake Game
+## Snake Game With Python's Turtle Modüle <br/>
+The Turtle module allows us to draw like graphics, shapes etc. <br/>
+We can create random numbers with The Random module. <br/>
+Time module is added for the running speed of the program. İt contains many functions related to editing time values.
 <br/> <br/>
-Turtle modülünde kullanılan bazı fonksiyonlar: <br/>
-[Python turtle modülü](https://www.btogrenme.com/python-turtle-modulu-turtle-kutuphanesi/) 
+Some functions used in the Turtle module:
+[Python turtle modüle](https://www.btogrenme.com/python-turtle-modulu-turtle-kutuphanesi/) 
 <br/>
-Turtle ile yılan oyununu aşağıdaki örnekten esinlenerek kodladım: <br/>
-[turtle yılan oyunu](http://bilgisayarhane.net/python-ogreniyorum-10-pythonda-yilan-oyunu-yapma/)
+I coded the snake game with Turtle module inspired by the example:
+[Turtle snake game](http://bilgisayarhane.net/python-ogreniyorum-10-pythonda-yilan-oyunu-yapma/)
