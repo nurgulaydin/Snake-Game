@@ -4,7 +4,7 @@ The Turtle module allows us to draw like graphics, shapes etc. <br/>
 We can create random numbers with The Random module. <br/>
 Time module is added for the running speed of the program. İt contains many functions related to editing time values.
 <br/> <br/>
-Output od the code: <br/>
+Output of the code: <br/>
 ![1](https://github.com/nurgulaydin/Snake-Game/blob/main/output/7.PNG)
 ![2](https://github.com/nurgulaydin/Snake-Game/blob/main/output/8.PNG)
 <br/> <br/>
